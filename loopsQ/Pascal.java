@@ -1,4 +1,4 @@
-package Pattern;
+package LoppQ;
 
 import java.util.Scanner;
 
